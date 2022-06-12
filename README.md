@@ -9,11 +9,11 @@ SPDX-FileCopyrightText: 2022 Alexander Murphy <supernova@alexmurphy.uk>
 
 ### First
 
-`curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim`
+`git clone https://github.com/informaticalex/vimrc ~/.vim`
 
 ### Second
 
-`git clone https://github.com/informaticalex/vimrc ~/.vim`
+`curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim`
 
 ### Third
 
