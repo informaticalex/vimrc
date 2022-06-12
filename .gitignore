@@ -1,0 +1,10 @@
+# SPDX-FileCopyrightText: 2022 Alexander Murphy <supernova@alexmurphy.uk>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+/autoload/
+/backup/
+/colors/
+/plugged/
+/.git/
+.netrwhist
