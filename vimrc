@@ -16,9 +16,10 @@ set shiftwidth=4
 set softtabstop=4
 
 " Key remapping
-map , :
+map <Leader>j :
+map <Leader>f :
 map <Leader>e :e ~/.vim/vimrc<Cr>
-map <Leader>r :!cargo run
+map <Leader>r :w<Cr>:!cargo run<Space>
 map <Leader>s :source<Cr>
 map <Leader>q y<C-w>k<C-w>""<C-w>j
 imap <C-f> <Esc>A
